@@ -1,4 +1,4 @@
-# INFORME  DE PROCESADORES E INTEFACES
+# INFORME  DE PROCESADORES E INTERFACES
 **Que es un microprocesador**
 
 Los microprocesadores tienen una arquitectura destinada al procesamiento de la informacion. Las caracteristicas de los microprocesadores son: la CPU, las memoria RAM, ROM y peridericos se encuentra separados; asi mismo los programas que se realizan para un microprocesador siempre tienen un fin
