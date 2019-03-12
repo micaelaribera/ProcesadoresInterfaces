@@ -71,7 +71,7 @@ Un sistema de complemento a uno o el complemento aritmético de uno es un sistem
 El sistema de numeración binaria de complemento a uno se caracteriza por el complemento bit de cualquier valor entero que es el negativo aritmético del valor. Es decir, invertir todos los bits de un número (el complemento lógico) produce el mismo resultado que restar el valor de 0.
 Muchas computadoras tempranas, incluyendo el CDC 6600, el LINC, el PDP-1 y el UNIVAC 1107, usaron la notación de complemento a uno. Los sucesores del CDC 6600 continuaron usando el complemento a uno hasta finales de la década de los 80, y los descendientes de UNIVAC 1107 (la serie UNIVAC 1100/2200) todavía lo hacen, pero la mayoría de las computadoras modernas usan el complemento a dos.
 
-10.	Escribe el complemento de uno para los siguientes números binarios de 5 bits. 
+### 10.	Escribe el complemento de uno para los siguientes números binarios de 5 bits. 
 010012 = 10110
 010112 = 10100
 001112 = 11000
